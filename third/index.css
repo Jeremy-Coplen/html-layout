@@ -1,0 +1,47 @@
+html {
+    width: 100vw;
+}
+
+header {
+    background-color: grey;
+    height: 10vh;
+}
+
+#logo {
+    background-color: rgb(65, 163, 255);
+    width: 5vw;
+    height: 7vh;
+    float: left;
+    margin: 6px 12px;
+}
+
+#text_container {
+    height: 42vh;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    overflow-wrap: break-word;
+    padding: 20px 15px 25px 15px;
+}
+
+.colors {
+    height: 12vh;
+}
+
+#blue {
+    background-color: rgb(8, 71, 245);
+}
+
+#turquoise {
+    background-color: rgb(68, 247, 187)
+}
+
+#puke_green {
+    background-color: rgb(156, 224, 93);
+}
+
+#yellow {
+    background-color: yellow;
+}
